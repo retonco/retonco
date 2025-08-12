@@ -1,4 +1,7 @@
-## Hi there 👋
+![Header](./github-header-banner.png)
+
+
+## "Hello, World!"
 
 # Eu sou a Renata Toncovitch
 🎯 Estudante de **Ciência da Computação**, com base sólida em Matemática e experiência prática em SQL, Excel avançado e modelagem matemática.  
@@ -99,4 +102,6 @@ Pesquisa e desenvolvimento em modelagem fuzzy, dinâmica populacional e crescime
 - **E-mail:** renata.neves@edu.unifil.br
 ---
 💬 *"Dados contam histórias — a análise certa revela o final."*
+
+<img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />
 
