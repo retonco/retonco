@@ -97,8 +97,12 @@ Pesquisa e desenvolvimento em modelagem fuzzy, dinâmica populacional e crescime
 - **Formação Continuada de Professores de Matemática da Educação Básica (Extensão)** – UTFPR (2013)  
 - **Literatura e Formação do Leitor (PIBIC-Jr)** – UENP (2010-2012)
 ---
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/renata-toncovitch/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="retonco" height="30" width="40" /></a>
+</p>
+
 ## 📫 Como me encontrar
-- **LinkedIn:** [linkedin.com/in/renata-toncovitch](https://www.linkedin.com/in/renata-toncovitch/)  
 - **E-mail:** renata.neves@edu.unifil.br
 ---
 💬 *"Dados contam histórias — a análise certa revela o final."*
