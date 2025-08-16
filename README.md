@@ -21,27 +21,6 @@ Pesquisa e desenvolvimento em modelagem fuzzy, dinâmica populacional e crescime
 - **Conhecimentos:** Modelagem Matemática, Lógica Fuzzy, Análise de Indicadores
 
 ---
-
-## 💼 Experiência Profissional
-**Analista Desenvolvedora de Sistemas II**  
-*Set/2017 – Set/2021*  
-- Desenvolvimento e manutenção de sistemas com uso extensivo de **SQL** para manipulação de grandes volumes de dados.  
-- Apoio a processos de fechamento contábil, operações de previdência e portabilidade.  
-- Análise e otimização de consultas e relatórios para melhoria de desempenho e integridade dos dados.
-  
-**Programadora Júnior**  
-*Jun/2017 – Set/2017*  
-- Análise estatística de dados e geração de dashboards com **R**.  
-- Apoio à atualização e manutenção de publicações estatísticas institucionais.  
-- Colaboração com equipe multidisciplinar para entrega de relatórios estratégicos.
-  
-**Auxiliar de Ensino de Matemática**  
-*Mar/2016 – Jul/2016*  
-- Acompanhamento individualizado de alunos no estudo de matemática.  
-- Correção e revisão de materiais didáticos.  
-- Apoio no planejamento de tarefas e organização de atividades acadêmicas.
-  
----
 ## 📄 Publicações
 ### Artigos completos em periódicos
 1. **Diagnóstico de tumores: uma abordagem Fuzzy** – Revista Eletrônica Paulista de Matemática, v. 9ic, p. 49-68, 2017.  
@@ -91,6 +70,28 @@ Pesquisa e desenvolvimento em modelagem fuzzy, dinâmica populacional e crescime
 - **Observatório de Políticas e Legislação Educacional (Extensão)** – UTFPR (2014-2015, 1140h)  
 - **Formação Continuada de Professores de Matemática da Educação Básica (Extensão)** – UTFPR (2013)  
 - **Literatura e Formação do Leitor (PIBIC-Jr)** – UENP (2010-2012)
+  
+---
+
+## 💼 Experiência Profissional
+**Analista Desenvolvedora de Sistemas II**  
+*Set/2017 – Set/2021*  
+- Desenvolvimento e manutenção de sistemas com uso extensivo de **SQL** para manipulação de grandes volumes de dados.  
+- Apoio a processos de fechamento contábil, operações de previdência e portabilidade.  
+- Análise e otimização de consultas e relatórios para melhoria de desempenho e integridade dos dados.
+  
+**Programadora Júnior**  
+*Jun/2017 – Set/2017*  
+- Análise estatística de dados e geração de dashboards com **R**.  
+- Apoio à atualização e manutenção de publicações estatísticas institucionais.  
+- Colaboração com equipe multidisciplinar para entrega de relatórios estratégicos.
+  
+**Auxiliar de Ensino de Matemática**  
+*Mar/2016 – Jul/2016*  
+- Acompanhamento individualizado de alunos no estudo de matemática.  
+- Correção e revisão de materiais didáticos.  
+- Apoio no planejamento de tarefas e organização de atividades acadêmicas.
+  
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
