@@ -6,14 +6,6 @@
 # Eu sou a Renata Toncovitch
 🎯 Estudante de **Ciência da Computação**, com base sólida em Matemática e experiência prática em SQL, Excel avançado e modelagem matemática.  
 
-💡 Motivada por transformar dados em decisões estratégicas usando lógica, estatística e tecnologias analíticas.
-
----
-## 🛠️ Habilidades Técnicas
-- **Linguagens e Bancos de Dados:** SQL, PL/SQL, R (análise estatística), noções de Python
-- **Ferramentas:** Excel Avançado, Power Query, Power BI (iniciante)
-- **Conhecimentos:** Modelagem Matemática, Lógica Fuzzy, Análise de Indicadores
-
 ---
 ## 📚 Formação
 - **Ciência da Computação** – Unifil (em curso)
@@ -23,6 +15,13 @@
 Pesquisa e desenvolvimento em modelagem fuzzy, dinâmica populacional e crescimento tumoral.
 
 ---
+## 🛠️ Habilidades Técnicas
+- **Linguagens e Bancos de Dados:** SQL, PL/SQL, R (análise estatística), noções de Python
+- **Ferramentas:** Excel Avançado, Power Query, Power BI (iniciante)
+- **Conhecimentos:** Modelagem Matemática, Lógica Fuzzy, Análise de Indicadores
+
+---
+
 ## 💼 Experiência Profissional
 **Analista Desenvolvedora de Sistemas II**  
 *Set/2017 – Set/2021*  
