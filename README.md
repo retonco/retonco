@@ -45,10 +45,11 @@ Pesquisa e desenvolvimento em modelagem fuzzy, dinâmica populacional e crescime
 ---
 ## 📄 Publicações
 ### Artigos completos em periódicos
-1. **Dinâmica do crescimento de tumores com controle através do modelo linear quadrático** – Revista Eletrônica Paulista de Matemática, v. 11ic, p. 72-90, 2017.  
-   [Acessar revista](https://www.fc.unesp.br/Home/Departamentos/Matematica/revistacqd2228/v11a06ic-dinamica-do-crescimento-de-tumores.pdf)
-2. **Diagnóstico de tumores: uma abordagem Fuzzy** – Revista Eletrônica Paulista de Matemática, v. 9ic, p. 49-68, 2017.  
+1. **Diagnóstico de tumores: uma abordagem Fuzzy** – Revista Eletrônica Paulista de Matemática, v. 9ic, p. 49-68, 2017.  
    [Acessar revista](https://www.fc.unesp.br/Home/Departamentos/Matematica/revistacqd2228/v09a03ic-diagnostico-de-tumores-uma-abordagem-fuzzy.pdf)
+2. **Dinâmica do crescimento de tumores com controle através do modelo linear quadrático** – Revista Eletrônica Paulista de Matemática, v. 11ic, p. 72-90, 2017.  
+   [Acessar revista](https://www.fc.unesp.br/Home/Departamentos/Matematica/revistacqd2228/v11a06ic-dinamica-do-crescimento-de-tumores.pdf)
+   
 ---
 ### Trabalhos completos em anais de congressos
 - Oficinas de Matemática em um programa de extensão: relato de uma experiência. (2015) – XVI Encontro Baiano de Educação Matemática, Salvador.  
