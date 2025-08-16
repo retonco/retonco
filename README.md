@@ -13,12 +13,7 @@
 - **Linguagens e Bancos de Dados:** SQL, PL/SQL, R (análise estatística), noções de Python
 - **Ferramentas:** Excel Avançado, Power Query, Power BI (iniciante)
 - **Conhecimentos:** Modelagem Matemática, Lógica Fuzzy, Análise de Indicadores
----
-## 📊 O que você vai encontrar por aqui
-- Scripts SQL e consultas otimizadas
-- Projetos de análise de dados
-- Estudos e experimentos com estatística aplicada
-- Modelos e funções matemáticas para problemas reais
+
 ---
 ## 📚 Formação
 - **Ciência da Computação** – Unifil (em curso)
